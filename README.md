@@ -1,2 +1,2 @@
 # Refined-English-to-Swahili-translation-pipeline
-This is a structured system that translates English words to Swahili.
+This is a structured system that processes English text and accurately converts it into Swahili using advanced language models and preprocessing techniques. It typically involves steps such as text cleaning, tokenization, model inference, and post-processing to ensure grammatical correctness and cultural relevance. This pipeline enhances translation quality by handling context, idiomatic expressions, and low-resource language challenges effectively.
